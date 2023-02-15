@@ -1,4 +1,3 @@
-
 function calculate() {
     let sharesInhand = Number(document.getElementById("Shares inhand").value);
     let valueofsharesInhand = Number(document.getElementById("value of per share inhand").value);
