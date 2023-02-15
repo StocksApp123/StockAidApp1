@@ -38,3 +38,9 @@ function calculate() {
     // console.log(sharesInhand,valueofsharesInhand,currentShareValue,countofShares)
    
 }
+
+function clearBox(){
+    document.getElementById("Current share value").value = "";
+    document.getElementById("count of Shares you want to buy").value = "";
+    document.getElementById("Averaged").value = "";
+}
